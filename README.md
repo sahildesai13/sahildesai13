@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sahildesai13](https://github.com/sahildesai13)
 
-- 💬 Ask me about **i have learnt Front-End development with React**
+- 💬 Ask me about **i have learnt Front-End development with React, node, express, mongodb, mysql**
 
 - 📫 How to reach me **sahilprofession@gmail.com**
 
