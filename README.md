@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sahil desai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **FullStack development course**
+- 🌱 I have compeleted **FullStack development course**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sahildesai13](https://github.com/sahildesai13)
 
